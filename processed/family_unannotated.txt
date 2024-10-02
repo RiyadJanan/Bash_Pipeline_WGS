@@ -1,0 +1,191 @@
+22:20854568/./CA/C	Not on a known gene
+22:20858013/./A/G	Not on a known gene
+22:20858018/./C/G	Not on a known gene
+22:20858028/./C/T	Not on a known gene
+22:20858030/./A/G	Not on a known gene
+22:20858042/./T/G	Not on a known gene
+22:20858061/./C/T	Not on a known gene
+22:20858065/./GCAAC/G	Not on a known gene
+22:20858070/./A/T	Not on a known gene
+22:20858072/./A/ACC	Not on a known gene
+22:20858087/./C/CA	Not on a known gene
+22:20947153/./G/GAA	Not on a known gene
+22:20947197/./TA/T	Not on a known gene
+22:20952970/./CT/C	Not on a known gene
+22:20960406/./T/G	Not on a known gene
+22:20977440/./GA/G	Not on a known gene
+22:20979305/./CA/C	Not on a known gene
+22:20982695/./G/GAGAGAGAGAGAC	Not on a known gene
+22:20982711/./C/CAGAA	Not on a known gene
+22:20982742/./G/GA	Not on a known gene
+22:20982748/./A/AAG	Not on a known gene
+22:20985783/./A/G	Not on a known gene
+22:20991578/./A/G	Not on a known gene
+22:20994659/./A/T	Not on a known gene
+22:20996420/./T/A	Not on a known gene
+22:21002986/./C/CAGAG	No Alamut gene - other known genes: SLC9A3P2
+22:21005908/./CA/C	No Alamut gene - other known genes: SLC9A3P2
+22:21010245/./C/CTT	No Alamut gene - other known genes: SLC9A3P2
+22:21010318/./G/C	No Alamut gene - other known genes: SLC9A3P2
+22:21011466/./T/C	Not on a known gene
+22:21013800/./G/GC	Not on a known gene
+22:21018912/./CA/C	Not on a known gene
+22:21019802/./TG/T	Not on a known gene
+22:21021872/./CT/C	No Alamut gene - other known genes: FAM108A5P
+22:21022089/./C/T	No Alamut gene - other known genes: FAM108A5P
+22:21022141/./A/G	No Alamut gene - other known genes: FAM108A5P
+22:21022380/./C/G	No Alamut gene - other known genes: FAM108A5P
+22:21022550/./G/C	No Alamut gene - other known genes: FAM108A5P
+22:21024054/./G/C	No Alamut gene - other known genes: FAM108A5P
+22:21024271/./T/C	No Alamut gene - other known genes: FAM108A5P
+22:21024324/./A/G	No Alamut gene - other known genes: FAM108A5P
+22:21028289/./TAG/T	No Alamut gene - other known genes: FAM108A5P
+22:21028321/./C/CTT	No Alamut gene - other known genes: FAM108A5P
+22:21034174/./T/C	Not on a known gene
+22:21034620/./G/C	Not on a known gene
+22:21037325/./C/CA	Not on a known gene
+22:21037488/./CAAAA/C	Not on a known gene
+22:21038451/./C/G	Not on a known gene
+22:21038469/./C/CTT	Not on a known gene
+22:21041584/./CA/C	Not on a known gene
+22:21048166/./C/T	Not on a known gene
+22:21048488/./C/T	Not on a known gene
+22:21049053/./G/C	No Alamut gene - other known genes: BCRP5
+22:21049395/./C/T	No Alamut gene - other known genes: BCRP5
+22:21049940/./C/T	No Alamut gene - other known genes: BCRP5
+22:21050035/./G/A	No Alamut gene - other known genes: BCRP5
+22:21050319/./G/A	No Alamut gene - other known genes: BCRP5
+22:21051314/./A/G	No Alamut gene - other known genes: BCRP5
+22:21051341/./T/A	No Alamut gene - other known genes: BCRP5
+22:21051568/./A/G	No Alamut gene - other known genes: BCRP5
+22:21051592/./A/G	No Alamut gene - other known genes: BCRP5
+22:21051608/./T/C	No Alamut gene - other known genes: BCRP5
+22:21051739/./A/G	No Alamut gene - other known genes: BCRP5
+22:21051802/./C/T	No Alamut gene - other known genes: BCRP5
+22:21052375/./A/G	No Alamut gene - other known genes: BCRP5
+22:21052378/./G/A	No Alamut gene - other known genes: BCRP5
+22:21052398/./TG/T	No Alamut gene - other known genes: BCRP5
+22:21248851/./CA/C	Not on a known gene
+22:21250540/./CA/C	Not on a known gene
+22:21255543/./C/G	Not on a known gene
+22:21255545/./C/T	Not on a known gene
+22:21255546/./C/G	Not on a known gene
+22:21256116/./C/CACACAG	Not on a known gene
+22:21256316/./CAAA/C	Not on a known gene
+22:21263975/./G/GA	Not on a known gene
+22:21264325/./C/CAAAAAA	Not on a known gene
+22:21331043/./A/T	Transcript NM_144704.2: Genome/Transcript discrepancy: Alternate genomic nucleotide (T) same as transcript nucleotide (Assembly: GRCh37)
+22:21391392/./C/G	Not on a known gene
+22:21392663/./C/CA	Not on a known gene
+22:21394077/./C/CAAA	Not on a known gene
+22:21394099/./T/G	Not on a known gene
+22:21420942/./G/C	Not on a known gene
+22:21431906/./ATC/A	Not on a known gene
+22:21431910/./T/G	Not on a known gene
+22:21435478/./T/TACACACACACACACAC	Not on a known gene
+22:21437799/./TG/T	Not on a known gene
+22:21437803/./TGTTTG/TTTTG	Not on a known gene
+22:21437803/./TGTTTG/T	Not on a known gene
+22:21437806/./TTG/T	Not on a known gene
+22:21440117/./C/CGCCTGTAATCCCAACATATATATGTATATATTGTTGTGGCTCAT	Not on a known gene
+22:21442535/./C/CTTT	Not on a known gene
+22:21451344/./AAAATAAAT/AAAATAAATAAAT	Not on a known gene
+22:21451344/./AAAATAAAT/A	Not on a known gene
+22:21451910/./CT/C	Not on a known gene
+22:21478613/./T/C	No Alamut gene - other known genes: POM121L7
+22:21478808/./T/G	No Alamut gene - other known genes: POM121L7
+22:21478822/./A/C	No Alamut gene - other known genes: POM121L7
+22:21478883/./G/A	No Alamut gene - other known genes: POM121L7
+22:21479471/./G/T	No Alamut gene - other known genes: POM121L7
+22:21479825/./CA/C	No Alamut gene - other known genes: POM121L7
+22:21479855/./C/T	No Alamut gene - other known genes: POM121L7
+22:21479861/./A/G	No Alamut gene - other known genes: POM121L7
+22:21479869/./G/C	No Alamut gene - other known genes: POM121L7
+22:21481398/./A/C	No Alamut gene - other known genes: POM121L7
+22:21481404/./T/C	No Alamut gene - other known genes: POM121L7
+22:21481405/./G/A	No Alamut gene - other known genes: POM121L7
+22:21481607/./T/A	No Alamut gene - other known genes: POM121L7
+22:21481613/./T/C	No Alamut gene - other known genes: POM121L7
+22:21481720/./G/C	No Alamut gene - other known genes: POM121L7
+22:21482055/./C/T	No Alamut gene - other known genes: POM121L7
+22:21482569/./A/G	No Alamut gene - other known genes: POM121L7
+22:21482607/./T/C	No Alamut gene - other known genes: POM121L7
+22:21482908/./C/G	No Alamut gene - other known genes: POM121L7
+22:21483197/./C/T	No Alamut gene - other known genes: POM121L7
+22:21483213/./C/T	No Alamut gene - other known genes: POM121L7
+22:21483262/./C/T	No Alamut gene - other known genes: POM121L7
+22:21483320/./G/C	No Alamut gene - other known genes: POM121L7
+22:21483361/./G/A	No Alamut gene - other known genes: POM121L7
+22:21483386/./T/G	No Alamut gene - other known genes: POM121L7
+22:21483405/./G/C	No Alamut gene - other known genes: POM121L7
+22:21483407/./T/G	No Alamut gene - other known genes: POM121L7
+22:21483412/./C/G	No Alamut gene - other known genes: POM121L7
+22:21483441/./C/T	No Alamut gene - other known genes: POM121L7
+22:21483449/./C/G	No Alamut gene - other known genes: POM121L7
+22:21483454/./C/T	No Alamut gene - other known genes: POM121L7
+22:21483485/./G/C	No Alamut gene - other known genes: POM121L7
+22:21483497/./C/T	No Alamut gene - other known genes: POM121L7
+22:21483500/./T/C	No Alamut gene - other known genes: POM121L7
+22:21483562/./C/T	No Alamut gene - other known genes: POM121L7
+22:21483580/./G/C	No Alamut gene - other known genes: POM121L7
+22:21483628/./A/AG	No Alamut gene - other known genes: POM121L7
+22:21483629/./A/AG	No Alamut gene - other known genes: POM121L7
+22:21483630/./A/AG	No Alamut gene - other known genes: POM121L7
+22:21483632/./A/G	No Alamut gene - other known genes: POM121L7
+22:21483650/./G/C	No Alamut gene - other known genes: POM121L7
+22:21483650/./G/GAC	No Alamut gene - other known genes: POM121L7, POM121L7
+22:21483750/./C/G	No Alamut gene - other known genes: POM121L7
+22:21483850/./C/T	No Alamut gene - other known genes: POM121L7
+22:21483886/./G/A	No Alamut gene - other known genes: POM121L7
+22:21484081/./T/C	No Alamut gene - other known genes: POM121L7
+22:21484152/./GTC/G	No Alamut gene - other known genes: POM121L7
+22:21484153/./TCTCACACACACACA/T	No Alamut gene - other known genes: POM121L7
+22:21484180/./C/A	No Alamut gene - other known genes: POM121L7
+22:21484217/./T/A	No Alamut gene - other known genes: POM121L7
+22:21484344/./G/A	No Alamut gene - other known genes: POM121L7
+22:21484449/./T/G	No Alamut gene - other known genes: POM121L7
+22:21484472/./T/C	No Alamut gene - other known genes: POM121L7
+22:21484475/./T/G	No Alamut gene - other known genes: POM121L7
+22:21485515/./C/A	No Alamut gene - other known genes: POM121L7
+22:21485527/./G/C	No Alamut gene - other known genes: POM121L7
+22:21485674/./T/C	No Alamut gene - other known genes: POM121L7
+22:21485737/./T/C	No Alamut gene - other known genes: POM121L7
+22:21485745/./G/A	No Alamut gene - other known genes: POM121L7
+22:21485748/./C/G	No Alamut gene - other known genes: POM121L7
+22:21485755/./C/T	No Alamut gene - other known genes: POM121L7
+22:21485780/./T/G	No Alamut gene - other known genes: POM121L7
+22:21486146/./A/C	No Alamut gene - other known genes: POM121L7
+22:21486243/./T/C	No Alamut gene - other known genes: POM121L7
+22:21486244/./C/T	No Alamut gene - other known genes: POM121L7
+22:21486506/./C/T	No Alamut gene - other known genes: POM121L7
+22:21487783/./C/T	Not on a known gene
+22:21488033/./G/A	Not on a known gene
+22:21489074/./C/T	Not on a known gene
+22:21489391/./G/A	Not on a known gene
+22:21490146/./G/T	Not on a known gene
+22:21490336/./T/C	Not on a known gene
+22:21490517/./CA/C	Not on a known gene
+22:21490534/./A/G	Not on a known gene
+22:21490821/./A/G	Not on a known gene
+22:21491208/./G/A	Not on a known gene
+22:21491627/./G/A	Not on a known gene
+22:21492031/./C/T	Not on a known gene
+22:21492234/./C/T	Not on a known gene
+22:21492393/./C/T	Not on a known gene
+22:21492502/./T/C	Not on a known gene
+22:21492880/./C/G	Not on a known gene
+22:21493033/./A/G	Not on a known gene
+22:21493778/./G/C	Not on a known gene
+22:21493794/./CA/C	Not on a known gene
+22:21493817/./G/A	Not on a known gene
+22:21493898/./T/C	Not on a known gene
+22:21494099/./T/C	Not on a known gene
+22:21494396/./C/T	Not on a known gene
+22:21494715/./C/CT	Not on a known gene
+22:21494724/./G/GTTT	Not on a known gene
+22:21494724/./G/T	Not on a known gene
+22:21494965/./A/G	Not on a known gene
+22:21495103/./A/G	Not on a known gene
+22:21496993/./C/T	Not on a known gene
+22:21497155/./G/C	Not on a known gene
+22:21498116/./G/A	Not on a known gene
